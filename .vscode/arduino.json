@@ -1,0 +1,6 @@
+{
+    "sketch": "nasa_rover.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "port": "COM7"
+}
