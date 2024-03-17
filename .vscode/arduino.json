@@ -1,6 +1,7 @@
 {
     "sketch": "nasa_rover.ino",
-    "board": "arduino:avr:uno",
+    "board": "arduino:avr:mega",
     "programmer": "avrisp",
-    "port": "COM7"
+    "port": "COM6",
+    "configuration": "cpu=atmega2560"
 }
